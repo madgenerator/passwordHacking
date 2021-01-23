@@ -24,7 +24,7 @@ pw2 = ['s','w','a','c',1,'o',3,'w']
 print("pw1 을 해킹한다!!")
 findPassword(pw1)
 
-print("pw2를 해킹한다!!")
+print("pw2를 해킹한다!! 성공할까??")
 findPassword(pw2)
 
 
